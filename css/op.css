@@ -1,0 +1,25 @@
+
+div{
+   height: 50px;
+   width: 300px;
+   display: flex;
+   
+   align-items: center;
+   justify-items: center;
+   background-color: blue;
+}
+
+.red{
+    
+    background-color: red;
+}
+.jaune{
+    
+    background-color: yellow;
+}
+.bleu{
+    
+
+    background-color: aqua;
+}
+
