@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+  background-image: url(../img/images.jpg);
+  
+}
+*{
+    box-sizing: border-box;
+}
+nav{
+    background-color: transparent;
+    height: 100px;
+}
+nav img{
+    width:150px
+}
+form{
+    background-color: rgba(0, 0, 0, .75);
+
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: #fff;
+}
+.content{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+input{
+    padding: 16px,20px;
+    margin: 5px 0;
+    
+}
